@@ -12,7 +12,7 @@ fazenda de carcinicultura.
 Depois de estudar o trabalho de Mujahid et al. (2025), que previu o crescimento de
 camarão na Indonésia usando dados operacionais reais, decidi seguir a mesma lógica: tratar
 cada biometria (pesagem) como um exemplo e usar o **dia de cultivo** e a **ração
-acumulada** como preditores principais. A intuição é simples — o que mais determina o
+acumulada** como preditores principais. A intuição é simples o que mais determina o
 tamanho do camarão é há quanto tempo ele cresce e quanto ele comeu no total.
 
 ## Principais resultados
