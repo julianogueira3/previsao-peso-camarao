@@ -1,0 +1,19 @@
+# Dependências — instale com:  pip install -r requirements.txt
+
+pandas>=2.2          # (testado: 3.0.2)
+numpy>=1.26          # (testado: 2.4.4)
+scikit-learn>=1.4    # (testado: 1.8.0)
+scipy>=1.11          # (testado: 1.17.1)
+matplotlib>=3.8      # (testado: 3.10.8)
+joblib>=1.3          # (testado: 1.5.3)
+openpyxl>=3.1        # (testado: 3.1.5)
+xlsxwriter>=3.1      # (testado: 3.2.9)
+
+# comparação de modelos (notebook 05)
+xgboost>=2.0         # (testado: 3.4.1)
+lightgbm>=4.0        # (testado: 4.7.0)
+shap>=0.44         # (testado: 0.52.0) interpretabilidade (notebook 07)
+
+# notebooks
+jupyter>=1.0
+notebook>=7.0
