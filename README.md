@@ -4,7 +4,7 @@ Projeto de aprendizado de máquina para prever o **peso** do camarão-branco
 (*Litopenaeus vannamei*) ao longo do cultivo, a partir de dados reais de campo de uma
 fazenda de carcinicultura.
 
-> Os notebooks já vêm executados, com os gráficos e resultados visíveis — é só abrir
+> Os notebooks já vêm executados, com os gráficos e resultados visíveis é só abrir
 > na ordem 01 → 07.
 
 ## A ideia
